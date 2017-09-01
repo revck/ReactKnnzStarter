@@ -22,7 +22,7 @@ and then you are ready to download this, install the components and *start* it.
     npm install
     npm run start
 
-After this, if you navigate to http://localhost:3000/ you should see the starting page of the project
+After this, if you navigate to http://localhost:8080/ you should see the starting page of the project
 
 #### How can I run my site after I add my code? :D
 
