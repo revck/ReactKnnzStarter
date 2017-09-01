@@ -19,6 +19,7 @@ This was made for a friend to help him understand basic node environment and Rea
 and then you are ready to download this, install the components and *start* it.
 
     git clone https://github.com/revck/ReactKnnzStarter.git
+    cd ReactKnnzStarter
     npm install
     npm run start
 
