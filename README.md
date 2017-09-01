@@ -35,6 +35,6 @@ And you're done
 - Don't touch index.html .. or any other file outside of 'src' or 'style' folder
 - Work with files inside /src/components , don't touch other files such as src/index.js
 - CSS is inside folder /style/style.css <- put your custom CSS inside that file
-- To use jQuery inside a file you must write at the top of the page:
+- To use jQuery inside a file you must write at the top of the page (you can see an example in SimpleComponent):
 
         import $ from 'jquery';
